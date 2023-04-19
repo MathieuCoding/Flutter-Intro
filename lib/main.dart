@@ -40,7 +40,7 @@ class _MyAppState extends State {
             ),
             ElevatedButton(
               style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.teal,
+                backgroundColor: Colors.teal[700],
               ),
               onPressed: () {
                 setState(() {
